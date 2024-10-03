@@ -1,6 +1,6 @@
 # Mapillary Omnidirectional Image Sequences Downloader
 
-This short python script allows to download multiple images sequences from the *Mapillary* platform (read more at [https://www.mapillary.com/](https://www.mapillary.com/))
+This short python script allows to download multiple images sequences from the *Mapillary* platform (read more at [https://www.mapillary.com/](https://www.mapillary.com/)). Please **paste your corresponding access token in the python script** from *Mapillary* to complete the image download.
 
 Given a file containing the `sequence_id` and the `image_id`s aimed for visual place recognition, the script downloads all required images to perform the evaluation of [Spherical VPR](https://github.com/isri-aist/sphericalVPR) implementations.
 
